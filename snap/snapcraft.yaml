@@ -1,10 +1,10 @@
 name:                   sqlitebrowser  # the name of the snap
-version:                0.1  # the version of the snap
+version:                3.10.1  # the version of the snap
 summary:                DB browser for Sqlite  # 79 char long summary
 description:            GUI editor for SQLite databases  # a longer description for the snap
-confinement:            devmode  # use "strict" to enforce system access only via declared interfaces
+confinement:            strict  # use "strict" to enforce system access only via declared interfaces
 
-grade:                  devel
+grade:                  stable
 icon:                   snap/sqlitebrowser.svg
 type:                   app
 
