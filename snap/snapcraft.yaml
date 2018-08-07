@@ -101,20 +101,20 @@
                   - libxkbcommon0
                   - libxkbfile1
                   - gtk2-engines
-                  - gtk2-engines-cleanice
-                  - gtk2-engines-moblin
+                  # - gtk2-engines-cleanice
+                  # - gtk2-engines-moblin
                   - gtk2-engines-oxygen
-                  - gtk2-engines-sugar
-                  - gtk2-engines-aurora
-                  - gtk2-engines-equinox
-                  - gtk2-engines-murrine
-                  - gtk2-engines-pixbuf
-                  - gtk2-engines-wonderland
-                  - gtk2-engines-blueheart
-                  - gtk2-engines-magicchicken
-                  - gtk2-engines-nodoka
-                  - gtk2-engines-qtcurve
-                  - gtk2-engines-xfce
+                  # - gtk2-engines-sugar
+                  # - gtk2-engines-aurora
+                  # - gtk2-engines-equinox
+                  # - gtk2-engines-murrine
+                  # - gtk2-engines-pixbuf
+                  # - gtk2-engines-wonderland
+                  # - gtk2-engines-blueheart
+                  # - gtk2-engines-magicchicken
+                  # - gtk2-engines-nodoka
+                  # - gtk2-engines-qtcurve
+                  # - gtk2-engines-xfce
                   - gtk3-engines-breeze
 
                   filesets:
