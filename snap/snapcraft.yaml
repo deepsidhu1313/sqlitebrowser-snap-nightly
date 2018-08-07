@@ -101,6 +101,7 @@
                   - libxkbcommon0
                   - libxkbfile1
                   - gtk2-engines
+                  - libc6
                   # - gtk2-engines-cleanice
                   # - gtk2-engines-moblin
                   - gtk2-engines-oxygen
