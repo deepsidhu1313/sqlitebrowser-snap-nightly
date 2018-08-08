@@ -97,7 +97,7 @@
                   stage-packages:
                   - qtbase5-dev
                   - libqt5gui5
-                  - libqt4gui4
+                  # - libqt4gui4
                   - libxkbcommon0
                   - libxkbfile1
                   - gtk2-engines
